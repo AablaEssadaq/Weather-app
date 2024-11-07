@@ -1,5 +1,5 @@
 
-let api_url = "http://api.weatherapi.com/v1/current.json?key=5aee125a73944ded995195639240511&q=";
+let api_url = "https://api.weatherapi.com/v1/current.json?key=5aee125a73944ded995195639240511&q=";
 
 async function fetchData(){
     try {
